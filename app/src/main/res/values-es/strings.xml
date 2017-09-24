@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dentro y Fuera</string>
+    <string name="cheeseburger">Hamburguesa con queso</string>
+    <string name="double_double">Doble doble</string>
+    <string name="fountain_drinks_pick_size">Bebidas de la fuente (tamaño de la selección)</string>
+    <string name="french_fries">Papas fritas</string>
+    <string name="items_ordered">Artículos Ordenados</string>
+    <string name="large_drink">Grande</string>
+    <string name="medium_drink">Medio</string>
+    <string name="new_order_button">Iniciar Nuevo Pedido</string>
+    <string name="order_total">Total del Pedido</string>
+    <string name="place_order">Haga un Pedido</string>
+    <string name="place_order_button">Realizar Pedido</string>
+    <string name="shakes">Batidos</string>
+    <string name="small_drink">Pequeña</string>
+    <string name="subtotal">Total Parcial</string>
+    <string name="tax">Impuesto</string>
+</resources>

@@ -20,6 +20,11 @@
         <item name="android:layout_gravity">right</item>
     </style>
 
+    <style name="summaryTextView" parent="text">
+        <item name="android:layout_column">0</item>
+        <item name="android:layout_gravity">left</item>
+    </style>
+
     <style name="editText" parent="text">
         <item name="android:layout_column">1</item>
         <item name="android:ems">8</item>
